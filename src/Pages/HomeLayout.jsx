@@ -8,6 +8,8 @@ const HomeLayout=()=>{
             <Link to='/Dashboard'>Dashboard Layout</Link><br></br>
             <Link to='/Login'>Login here</Link><br></br>
             <Link to='/Register'>Register here</Link><br></br>
+            <Link to='/Landing'>Landing</Link><br></br>
+
 
         </div>
     )
